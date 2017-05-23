@@ -46,7 +46,7 @@ Gold values that are displayed:
 | ![](../icons/Explodingpotion.gif) | Exploding Potion | always | -/- |
 | ![](../icons/Oilpotion.gif) | Oil Potion | always | -/- |
 | ![](../icons/Stranglinggaspotion.gif) | Strangling Gas Potion | always | -/- |
-| ![](../icons/Choklinggaspotion.gif) | Chokling Gas Potion | always | -/- |
+| ![](../icons/Chokinggaspotion.gif) | Choking Gas Potion | always | -/- |
 | ![](../icons/Rancidgaspotion.gif) | Rancid Gas Potion | always | -/- |
 
 # Utility
