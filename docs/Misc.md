@@ -19,27 +19,27 @@ Gold values that are displayed:
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
 | ![](icons/Rejuv.gif) | Rejuvenation Potion | 66+ | <span class="d2" style="color: purple">!</span><span class="d2">35%</span> |
-| ![](icons/Fullrejuv.gif) | Full Rejuvenation Potion | never | **!**{: style="color: purple"}70% |
+| ![](icons/Fullrejuv.gif) | Full Rejuvenation Potion | never | <span class="d2" style="color: purple">!</span><span class="d2">70%</span> |
 
 ### Health
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
-| ![](icons/Minorhealing.gif) | Minor Healing Potion | 15+ | **!**{: style="color: red"}Minor Heal |
-| ![](icons/Lighthealing.gif) | Light Healing Potion | 18+ | **!**{: style="color: red"}Light Heal |
-| ![](icons/Healing.gif) | Healing Potion | 24+ | **!**{: style="color: red"}Healing |
-| ![](icons/Greaterhealing.gif) | Greater Healing Potion | 81+ | **!**{: style="color: red"}H |
-| ![](icons/Superhealing.gif) | Super Healing Potion | never | **!**{: style="color: red"}H+ |
+| ![](icons/Minorhealing.gif) | Minor Healing Potion | 15+ | <span class="d2" style="color: red">!</span><span class="d2">Minor Heal</span> |
+| ![](icons/Lighthealing.gif) | Light Healing Potion | 18+ | <span class="d2" style="color: red">!</span><span class="d2">Light Heal</span> |
+| ![](icons/Healing.gif) | Healing Potion | 24+ | <span class="d2" style="color: red">!</span><span class="d2">Healing</span> |
+| ![](icons/Greaterhealing.gif) | Greater Healing Potion | 81+ | <span class="d2" style="color: red">!</span><span class="d2">H</span> |
+| ![](icons/Superhealing.gif) | Super Healing Potion | never | <span class="d2" style="color: red">!</span><span class="d2">H+</span> |
 
 ### Mana
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
-| ![](icons/Minormana.gif) | Minor Mana Potion | 15+ | **!**{: style="color: blue"}Minor Mana |
-| ![](icons/Lightmana.gif) | Light Mana Potion | 20+ | **!**{: style="color: blue"}Light Mana |
-| ![](icons/Mana.gif) | Mana Potion | 26+ | **!**{: style="color: blue"}Mana |
-| ![](icons/Greatermana.gif) | Greater Mana Potion | 81+ | **!**{: style="color: blue"}M |
-| ![](icons/Supermana.gif) | Super Mana Potion | never | **!**{: style="color: blue"}M+ |
+| ![](icons/Minormana.gif) | Minor Mana Potion | 15+ | <span class="d2" style="color: blue">!</span><span class="d2">Minor Mana</span> |
+| ![](icons/Lightmana.gif) | Light Mana Potion | 20+ | <span class="d2" style="color: blue">!</span><span class="d2">Light Mana</span> |
+| ![](icons/Mana.gif) | Mana Potion | 26+ | <span class="d2" style="color: blue">!</span><span class="d2">Mana</span> |
+| ![](icons/Greatermana.gif) | Greater Mana Potion | 81+ | <span class="d2" style="color: blue">!</span><span class="d2">M</span> |
+| ![](icons/Supermana.gif) | Super Mana Potion | never | <span class="d2" style="color: blue">!</span><span class="d2">M+</span> |
 
 ### Others
 
@@ -59,14 +59,22 @@ Gold values that are displayed:
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
-| ![](icons/scrolltp.gif) | Town Portal Scroll | never | **!**{: style="color: green"}TP |
-| ![](icons/scrollid.gif) | Identification Scroll | never | **!**{: style="color: green"}ID |
-| ![](icons/tometp.gif) | Tome of Town Portal | never | **!**{: style="color: green"}TP Tome |
-| ![](icons/tomeid.gif) | Tome of Identification | never | **!**{: style="color: green"}ID Tome |
-| ![](icons/key.gif) | Key | never | **!**{: style="color: green"}Key |
+| ![](icons/scrolltp.gif) | Town Portal Scroll | never | <span class="d2" style="color: green">!</span><span class="d2">TP</span> |
+| ![](icons/scrollid.gif) | Identification Scroll | never | <span class="d2" style="color: green">!</span><span class="d2">ID</span> |
+| ![](icons/tometp.gif) | Tome of Town Portal | never | <span class="d2" style="color: green">!</span><span class="d2">TP Tome</span> |
+| ![](icons/tomeid.gif) | Tome of Identification | never | <span class="d2" style="color: green">!</span><span class="d2">ID Tome</span> |
+| ![](icons/key.gif) | Key | never | <span class="d2" style="color: green">!</span><span class="d2">Key</span> |
 
 ## PoD Items
 
-Always Displayed:
+| Icon | Name | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| ![](icons/ooc.png) | Orb of Corruption | never | <span class="d2" style="color: purple">Orb of Corruption</span> |
+| ![](icons/t1.png) | ... Relic | never | <span class="d2" style="color: purple">Tier 1 Relic</span> |
+| ![](icons/t2.png) | Dark Cavern Relic | never | <span class="d2" style="color: purple">Tier 2 Relic</span> |
+| ![](icons/t3.png) | Abondoned Precinct Relic | never | <span class="d2" style="color: purple">Tier 3 Relic</span> |
+| ![](icons/t4.png) | ... Relic | never | <span class="d2" style="color: purple">Tier 4 Relic</span> |
+| ![]() | New Relic?! | never | <span class="d2" style="color: purple">Mysterious Tier Relic: Name</span> |
+| ![]() | New Item?! | never | <span class="d2" style="color: purple">Mysterious New Item: Name</span> |
 
 ## Quests

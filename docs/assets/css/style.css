@@ -23,7 +23,7 @@ html, button, input, select, textarea { font-family: sans-serif; }
     font-family: 'avqestregular';
     src: url('/Ikusu/assets/fonts/avqest-webfont.woff2') format('woff2'),
          url('/Ikusu/assets/fonts/avqest-webfont.woff') format('woff');
-    font-weight: bold;
+    font-weight: normal;
     font-style: normal;
 
 }
