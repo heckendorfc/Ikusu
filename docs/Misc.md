@@ -18,7 +18,7 @@ Gold values that are displayed:
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
-| ![](icons/Rejuv.gif) | Rejuvenation Potion | 66+ | **!**{: style="color: purple"}35% |
+| ![](icons/Rejuv.gif) | Rejuvenation Potion | 66+ | <span class="d2" style="color: purple">!</span><span class="d2">35%</span> |
 | ![](icons/Fullrejuv.gif) | Full Rejuvenation Potion | never | **!**{: style="color: purple"}70% |
 
 ### Health
