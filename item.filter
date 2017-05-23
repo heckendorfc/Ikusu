@@ -66,6 +66,23 @@ ItemDisplay[ma3]: %PURPLE%Tier 3 Relic
 ItemDisplay[ma4]: %PURPLE%Tier 4 Relic
 ItemDisplay[maz]: %PURPLE%Mysterious Tier Relic: %NAME%
 
+//Quest items
+ItemDisplay[bbb]: %NAME%
+ItemDisplay[ass]: %NAME%
+ItemDisplay[bkd]: %NAME%
+ItemDisplay[bks]: %NAME%
+ItemDisplay[box]: %NAME%
+ItemDisplay[g34]: %NAME%
+ItemDisplay[ice]: %NAME%
+ItemDisplay[j34]: %NAME%
+ItemDisplay[mss]: %NAME%
+ItemDisplay[qbr]: %NAME%
+ItemDisplay[qey]: %NAME%
+ItemDisplay[qhr]: %NAME%
+ItemDisplay[tr1]: %NAME%
+ItemDisplay[tr2]: %NAME%
+ItemDisplay[xyz]: %NAME%
+
 //Essences (Respec Token)
 ItemDisplay[tes]: %GOLD%Suffering %RED%[%GOLD%Anduriel%RED%]
 ItemDisplay[ceh]: %GOLD%Hatred %RED%[%GOLD%Mephisto%RED%]
@@ -80,16 +97,6 @@ ItemDisplay[pk3]: %RED%Destruction %GOLD%[%RED%Nihlathak%GOLD%]
 ItemDisplay[dhn]: %RED%Diablo's Horn
 ItemDisplay[bey]: %RED%Baal's Eye
 ItemDisplay[mbr]: %RED%Mephisto's Brain
-
-//Hide MAGIC Quivers & Bolts above level 60
-ItemDisplay[aq2 MAG CLVL>60]:
-ItemDisplay[aq2 RARE]: %NAME%
-ItemDisplay[aq2 UNI]: %NAME%
-ItemDisplay[aq2 SET]: %NAME%
-ItemDisplay[cq2 MAG CLVL>60]:
-ItemDisplay[cq2 RARE]: %NAME%
-ItemDisplay[cq2 UNI]: %NAME%
-ItemDisplay[cq2 SET]: %NAME%
 
 //RUNES
 //not crafting relevant Runes will be grey with LVL 80+
@@ -138,23 +145,6 @@ ItemDisplay[r31]: %RED%¤%TAN%[>%RED%%RUNENAME%%TAN%<]%RED%¤ %WHITE%(31)
 ItemDisplay[r32]: %RED%¤%TAN%[>%RED%%RUNENAME%%TAN%<]%RED%¤ %WHITE%(32)
 ItemDisplay[r33]: %TAN%[>%RED%%RUNENAME%%TAN%<] %WHITE%(33)
 
-//Quest items
-ItemDisplay[bbb]: %TAN%%NAME%
-ItemDisplay[ass]: %TAN%%NAME%
-ItemDisplay[bkd]: %TAN%%NAME%
-ItemDisplay[bks]: %TAN%%NAME%
-ItemDisplay[box]: %TAN%%NAME%
-ItemDisplay[g34]: %TAN%%NAME%
-ItemDisplay[ice]: %TAN%%NAME%
-ItemDisplay[j34]: %TAN%%NAME%
-ItemDisplay[mss]: %TAN%%NAME%
-ItemDisplay[qbr]: %TAN%%NAME%
-ItemDisplay[qey]: %TAN%%NAME%
-ItemDisplay[qhr]: %TAN%%NAME%
-ItemDisplay[tr1]: %TAN%%NAME%
-ItemDisplay[tr2]: %TAN%%NAME%
-ItemDisplay[xyz]: %TAN%%NAME%
-
 //GEMS
 //hide chipped, flawed, normal gems with LVL 25+
 //GEM=1. chipped, 2. flawed, 3.normal, 4. flawless, 5. perfect
@@ -179,6 +169,16 @@ ItemDisplay[GEM=5 GEMTYPE=5]: %BLUE%P~%ORANGE%SAPPHIRE
 ItemDisplay[GEM=5 GEMTYPE=6]: %YELLOW%P~%ORANGE%TOPAZ
 ItemDisplay[GEM=5 GEMTYPE=7]: %GRAY%P~%ORANGE%SKULL
 //
+
+//Hide MAGIC Quivers & Bolts above level 60
+ItemDisplay[aq2 MAG CLVL>60]:
+ItemDisplay[aq2 RARE]: %NAME%
+ItemDisplay[aq2 UNI]: %NAME%
+ItemDisplay[aq2 SET]: %NAME%
+ItemDisplay[cq2 MAG CLVL>60]:
+ItemDisplay[cq2 RARE]: %NAME%
+ItemDisplay[cq2 UNI]: %NAME%
+ItemDisplay[cq2 SET]: %NAME%
 
 //===Uniques / Sets===
 //Highlight the more useful / rare uniques / sets red

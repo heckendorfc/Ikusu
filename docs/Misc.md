@@ -2,9 +2,9 @@
 
 All non-equippable items (including Wirt's Leg)
 
-## Gold
+## #B8AC83
 
-Gold values that are displayed:
+#B8AC83 values that are displayed:
 
 | LVL | Value |
 | --- | --- |
@@ -86,19 +86,19 @@ unchanged standard Display
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
-| ![]() | Twisted Essence of Suffering | never | <span class="d2" style="color: gold">Suffering </span><span class="d2" style="color: red">[</span><span class="d2" style="color: gold">Anduriel</span><span class="d2" style="color: red">]</span> |
-| ![]() | Charged Essence of Hatred | never | <span class="d2" style="color: gold">Hatred </span><span class="d2" style="color: red">[</span><span class="d2" style="color: gold">Mephisto</span><span class="d2" style="color: red">]</span> |
-| ![](icons/essd.png) | Burning Essence of Terror | never | <span class="d2" style="color: gold">Terror </span><span class="d2" style="color: red">[</span><span class="d2" style="color: gold">Diablo</span><span class="d2" style="color: red">]</span> |
-| ![]() | Festering Essence of Destruction | never | <span class="d2" style="color: gold">Destruction </span><span class="d2" style="color: red">[</span><span class="d2" style="color: gold">Baal</span><span class="d2" style="color: red">]</span> |
-| ![]() | Token of Absolution | never | <span class="d2" style="color: gold">Token of Absolution </span> |
+| ![]() | Twisted Essence of Suffering | never | <span class="d2" style="color: #B8AC83">Suffering </span><span class="d2" style="color: red">[</span><span class="d2" style="color: #B8AC83">Anduriel</span><span class="d2" style="color: red">]</span> |
+| ![]() | Charged Essence of Hatred | never | <span class="d2" style="color: #B8AC83">Hatred </span><span class="d2" style="color: red">[</span><span class="d2" style="color: #B8AC83">Mephisto</span><span class="d2" style="color: red">]</span> |
+| ![](icons/essd.png) | Burning Essence of Terror | never | <span class="d2" style="color: #B8AC83">Terror </span><span class="d2" style="color: red">[</span><span class="d2" style="color: #B8AC83">Diablo</span><span class="d2" style="color: red">]</span> |
+| ![]() | Festering Essence of Destruction | never | <span class="d2" style="color: #B8AC83">Destruction </span><span class="d2" style="color: red">[</span><span class="d2" style="color: #B8AC83">Baal</span><span class="d2" style="color: red">]</span> |
+| ![]() | Token of Absolution | never | <span class="d2" style="color: #B8AC83">Token of Absolution </span> |
 
 ## Uber Keys
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
-| ![](icons/ukey.png) | Key of Terror | never | <span class="d2" style="color: red">Terror </span><span class="d2" style="color: gold">[</span><span class="d2" style="color: red">Countess</span><span class="d2" style="color: gold">]</span> |
-| ![](icons/ukey.png) | Key of Hate | never | <span class="d2" style="color: red">Hate </span><span class="d2" style="color: gold">[</span><span class="d2" style="color: red">Summoner</span><span class="d2" style="color: gold">]</span> |
-| ![](icons/ukey.png) | Key of Destruction | never | <span class="d2" style="color: red">Terror </span><span class="d2" style="color: gold">[</span><span class="d2" style="color: red">Nihlathak</span><span class="d2" style="color: gold">]</span> |
+| ![](icons/ukey.png) | Key of Terror | never | <span class="d2" style="color: red">Terror </span><span class="d2" style="color: #B8AC83">[</span><span class="d2" style="color: red">Countess</span><span class="d2" style="color: #B8AC83">]</span> |
+| ![](icons/ukey.png) | Key of Hate | never | <span class="d2" style="color: red">Hate </span><span class="d2" style="color: #B8AC83">[</span><span class="d2" style="color: red">Summoner</span><span class="d2" style="color: #B8AC83">]</span> |
+| ![](icons/ukey.png) | Key of Destruction | never | <span class="d2" style="color: red">Terror </span><span class="d2" style="color: #B8AC83">[</span><span class="d2" style="color: red">Nihlathak</span><span class="d2" style="color: #B8AC83">]</span> |
 | ![]() | Diablo's Horn | never | <span class="d2" style="color: red">Diablo's Horn</span> |
 | ![]() | Baal's Eye | never | <span class="d2" style="color: red">Baal's Eye</span> |
 | ![]() | Mephisto's Brain | never | <span class="d2" style="color: red">Mephisto's Brain</span> |
