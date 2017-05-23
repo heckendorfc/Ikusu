@@ -10,29 +10,49 @@ Gold values that are displayed:
 # Potions
 ## Rejuvenation
 
-| Icon | Name | Displayed until | Displayed as |
+| Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
-| ![](../icons/Rejuv.gif) | Rejuvenation Potion | 65 | ToDo |
-| ![](../icons/Fullrejuv.gif) | Full Rejuvenation Potion | 8 | ToDo |
+| ![](../icons/Rejuv.gif) | Rejuvenation Potion | 66+ | ToDo |
+| ![](../icons/Fullrejuv.gif) | Full Rejuvenation Potion | never | ToDo |
 
 ## Health
-* ![Minor](icons/Minorhealing.gif) - Minor Healing Potion - shown below lvl 15
-* ![](../icons/Lighthealing.gif) - Light Healing Potion - shown below lvl 18
-* ![](../icons/Healing.gif)
-* ![](../icons/Greaterhealing.gif)
-* ![](../icons/Superhealing.gif)
-## Mana
-* ![](../icons/Minormana.gif) - Minor mana Potion - shown below lvl 15
-* ![](../icons/Lightmana.gif) - Light mana Potion - shown below lvl 18
-* ![](../icons/Mana.gif)
-* ![](../icons/Greatermana.gif)
-* ![](../icons/Supermana.gif)
-## Others
-following items will never be displayed:
 
-Thawing, Antidote, Stamina, Choking, Exploding, Fulminating, Oil, Rancid, Strangling
+| Icon | Name | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| ![Minor](../icons/Minorhealing.gif) | Minor Healing Potion | 15+ | ToDo |
+| ![](../icons/Lighthealing.gif) | Light Healing Potion | 18+ | ToDo |
+| ![](../icons/Healing.gif) | Healing Potion | 24+ | ToDo |
+| ![](../icons/Greaterhealing.gif) | Greater Healing Potion | 81+ | ToDo |
+| ![](../icons/Superhealing.gif) | Super Healing Potion | never | ToDo |
+
+## Mana
+
+| Icon | Name | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| ![](../icons/Minormana.gif) | Minor Mana Potion | 15+ | ToDo |
+| ![](../icons/Lightmana.gif) | Light Mana Potion | 20+ | ToDo |
+| ![](../icons/Mana.gif) | Mana Potion | 26+ | ToDo |
+| ![](../icons/Greatermana.gif) | Greater Mana Potion | 81+ | ToDo |
+| ![](../icons/Supermana.gif) | Super Mana Potion | never | ToDo |
+
+## Others
+
+| Icon | Name | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| ![](../icons/Antidote.gif) | Antidote | always | -/- |
+| ![](../icons/Thawing.gif) | Thawing | always | -/- |
+| ![](../icons/Stamina.gif) | Stamina | always | -/- |
+| ![](../icons/Fulminatingpotion.gif) | Fulminating | always | -/- |
+| ![](../icons/Explodingpotion.gif) | Exploding | always | -/- |
+| ![](../icons/Oilpotion.gif) | Oil | always | -/- |
+| ![](../icons/Stranglingpotion.gif) | Strangling | always | -/- |
+| ![](../icons/Choklingpotion.gif) | Chokling | always | -/- |
+| ![](../icons/Rancidpotion.gif) | Rancid | always | -/- |
 
 # Utility
+
+| Icon | Name | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
 
 # PoD Items
 
