@@ -1,4 +1,7 @@
-# Gold
+#Misc
+All non-equippable items (including Wirt's Leg)
+
+## Gold
 Gold values that are displayed:
 
 | LVL | Value |
@@ -7,15 +10,15 @@ Gold values that are displayed:
 | 41-80| 2000+|
 | 81+ | 4000+ |
 
-# Potions
-## Rejuvenation
+## Potions
+### Rejuvenation
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
 | ![](icons/Rejuv.gif) | Rejuvenation Potion | 66+ | ToDo |
 | ![](icons/Fullrejuv.gif) | Full Rejuvenation Potion | never | ToDo |
 
-## Health
+### Health
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
@@ -25,7 +28,7 @@ Gold values that are displayed:
 | ![](icons/Greaterhealing.gif) | Greater Healing Potion | 81+ | ToDo |
 | ![](icons/Superhealing.gif) | Super Healing Potion | never | ToDo |
 
-## Mana
+### Mana
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
@@ -35,7 +38,7 @@ Gold values that are displayed:
 | ![](icons/Greatermana.gif) | Greater Mana Potion | 81+ | ToDo |
 | ![](icons/Supermana.gif) | Super Mana Potion | never | ToDo |
 
-## Others
+### Others
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
@@ -49,7 +52,7 @@ Gold values that are displayed:
 | ![](icons/Chokinggaspotion.gif) | Choking Gas Potion | always | -/- |
 | ![](icons/Rancidgaspotion.gif) | Rancid Gas Potion | always | -/- |
 
-# Utility
+## Utility
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
@@ -59,10 +62,10 @@ Gold values that are displayed:
 | ![](icons/tomeid.gif) | Tome of Identification | never | ![](ss/idt.png) |
 | ![](icons/key.gif) | Key | never |![](ss/tp.png) |
 
-# PoD Items
+## PoD Items
 Always Displayed:
 
 
 
 
-# Quests
+## Quests
