@@ -31,8 +31,8 @@ html, button, input, select, textarea { font-family: Avqest; }
 
 @font-face {
     font-family: 'avqestregular2';
-    src: url('/assets/fonts/avqest-webfont.woff2') format('woff2'),
-         url('/assets/fonts/avqest-webfont.woff') format('woff');
+    src: url('assets/fonts/avqest-webfont.woff2') format('woff2'),
+         url('assets/fonts/avqest-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
