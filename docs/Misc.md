@@ -1,7 +1,9 @@
 #Misc
+
 All non-equippable items (including Wirt's Leg)
 
 ## Gold
+
 Gold values that are displayed:
 
 | LVL | Value |
@@ -11,6 +13,7 @@ Gold values that are displayed:
 | 81+ | 4000+ |
 
 ## Potions
+
 ### Rejuvenation
 
 | Icon | Name | Hide at LVL | Displayed as |
@@ -56,16 +59,14 @@ Gold values that are displayed:
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
-| ![](icons/scrolltp.gif) | Town Portal Scroll | never | !{: style="color: green"}TP |
-| ![](icons/scrollid.gif) | Identification Scroll | never | !{: style="color: green"}ID |
-| ![](icons/tometp.gif) | Tome of Town Portal | never | !{: style="color: green"}TP Tome |
-| ![](icons/tomeid.gif) | Tome of Identification | never | !{: style="color: green"}ID Tome |
+| ![](icons/scrolltp.gif) | Town Portal Scroll | never | **!**{: style="color: green"}**TP** |
+| ![](icons/scrollid.gif) | Identification Scroll | never | **!**{: style="color: green"}ID |
+| ![](icons/tometp.gif) | Tome of Town Portal | never | **!**{: style="color: green"}TP Tome |
+| ![](icons/tomeid.gif) | Tome of Identification | never | **!**{: style="color: green"}ID Tome |
 | ![](icons/key.gif) | Key | never |!{: style="color: green"}Key |
 
 ## PoD Items
+
 Always Displayed:
-
-
-
 
 ## Quests
