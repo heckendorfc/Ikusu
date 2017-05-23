@@ -1,1 +1,0 @@
-[HOME](docs/Home.md) --- [Misc](docs/Misc.md) 
