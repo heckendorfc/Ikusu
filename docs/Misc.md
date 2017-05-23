@@ -53,7 +53,15 @@ Gold values that are displayed:
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
+| ![](icons/scrolltp.gif) | Town Portal Scroll | never | !TP |
+| ![](icons/scrollid.gif) | Identification Scroll | never | !ID |
+| ![](icons/tometp.gif) | Tome of Town Portal | never | !TP Tome |
+| ![](icons/tomeid.gif) | Tome of Identification | never | !ID Tome |
 
 # PoD Items
+Always Displayed:
+
+
+
 
 # Quests
