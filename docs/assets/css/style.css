@@ -278,7 +278,13 @@ section #title .credits { font-size: 11px; font-family: 'OpenSansRegular', "Helv
 section #title .credits.left { float: left; }
 section #title .credits.right { float: right; }
 
-.d2 { font-family: avqestregular }
+.d2 { color: #D8D8D8; font-family: avqestregular }
+.d2gold { color: #B8AC83; font-family: avqestregular }
+.d2purple { color: #A700D8; font-family: avqestregular }
+.d2red { color: #D86363; font-family: avqestregular }
+.d2green { color: #50F066; font-family: avqestregular }
+.d2blue { color: #7979D7; font-family: avqestregular }
+
 
 @media print, screen and (max-width: 720px) { #title .credits { display: block; width: 100%; line-height: 30px; text-align: center; }
   #title .credits .left { float: none; display: block; }
