@@ -21,7 +21,7 @@ This is *red*{: style="color: red"}.
 
 **test text**{:.d2}
 
-**test text**{:.d22}
+**test text**{:.d2}
 
 
 **test text**{: style="font-family: avqestregular"}
