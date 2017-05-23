@@ -4,6 +4,7 @@
   * list 1 item 3 (indent 2 spaces)
    * list 1 item 4  (indent 3 spaces)
     * lazy text belonging to above item 4
+
 # Weapons
 ~~~
 def what?
@@ -11,5 +12,6 @@ def what?
 end
 ~~~
 {: .language-ruby}
+
 #TEST
 This is *red*{: style="color: red"}.
