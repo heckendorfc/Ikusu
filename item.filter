@@ -33,11 +33,9 @@ ItemDisplay[mp2 CLVL>19]:
 ItemDisplay[mp3 CLVL>25]:
 
 //other Potions - hide all
-//Thaw
+//Thaw,Antidote,Stamina
 ItemDisplay[wms]:
-//Antidote
 ItemDisplay[yps]:
-//Stamina
 ItemDisplay[vps]:
 //Choking, Exploding, Fulminating, Oil, Rancid, Strangling
 ItemDisplay[gpm]:
