@@ -43,11 +43,11 @@ Gold values that are displayed:
 | ![](../icons/Thawing.gif) | Thawing | always | -/- |
 | ![](../icons/Stamina.gif) | Stamina | always | -/- |
 | ![](../icons/Fulminatingpotion.gif) | Fulminating | always | -/- |
-| ![](../icons/Explodingpotion.gif) | Exploding | always | -/- |
-| ![](../icons/Oilpotion.gif) | Oil | always | -/- |
-| ![](../icons/Stranglingpotion.gif) | Strangling | always | -/- |
-| ![](../icons/Choklingpotion.gif) | Chokling | always | -/- |
-| ![](../icons/Rancidpotion.gif) | Rancid | always | -/- |
+| ![](../icons/Explodingpotion.gif) | Exploding Potion | always | -/- |
+| ![](../icons/Oilpotion.gif) | Oil Potion | always | -/- |
+| ![](../icons/Stranglinggaspotion.gif) | Strangling Gas Potion | always | -/- |
+| ![](../icons/Choklinggaspotion.gif) | Chokling Gas Potion | always | -/- |
+| ![](../icons/Rancidgaspotion.gif) | Rancid Gas Potion | always | -/- |
 
 # Utility
 
