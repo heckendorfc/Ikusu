@@ -1,3 +1,7 @@
+---
+layout: Misc
+---
+
 # Gold
 Gold values that are displayed:
 
