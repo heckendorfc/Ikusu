@@ -1,11 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Ikusu by datawulf</title>
+    <link rel="stylesheet" href="/Ikusu/assets/css/style.css?v=001715e304f43bd870837ec0161c2948e2d9d7b9">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="/Ikusu/assets/js/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="/Ikusu/assets/css/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-  {% include head.md %}
-
+  </head>
   <body>
-    <section class="page-wrapper">
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://github.com/datawulf/Ikusu/docs/Home.md">Home</a></li>
+		  <li class="fork"><a href="https://github.com/datawulf/Ikusu/docs/Misc.md">Misc</a></li>
+		  <li class="fork"><a href="https://github.com/datawulf/Ikusu/docs/Rares.md">Rares</a></li>
+        </nav>
+      </div><!-- end header -->
+
+    <div class="wrapper">
+      <section>
       {{content}}
-    </section>
+      </section>
+
+    </div>
+
+    
   </body>
 </html>
