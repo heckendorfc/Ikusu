@@ -23,6 +23,10 @@ This is *red*{: style="color: red"}.
 
 **test text**{:.d2}
 
+<span style="font-family: avqestregular"> test test</span>
+
+<span class="d2"> test tttest</span>
+
 
 **test text**{: style="font-family: avqestregular"}
 
