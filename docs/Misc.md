@@ -63,7 +63,7 @@ gold values that are displayed:
 | ![](icons/scrollid.gif) | Identification Scroll | never | <span class="d2green">!</span><span class="d2">ID</span> |
 | ![](icons/tometp.gif) | Tome of Town Portal | never | <span class="d2green">!</span><span class="d2">TP Tome</span> |
 | ![](icons/tomeid.gif) | Tome of Identification | never | <span class="d2green">!</span><span class="d2">ID Tome</span> |
-| ![](icons/key.gif) | Key | never | <span class="d2green">!</span><span class="d2">Key</span> |
+| ![](icons/key.gif) | Key | never | <span class="d2green">!</span><span class="d2">key</span> |
 | ![](icons/WirtsLeg.gif) | Wirt's Leg | never | <span class="d2green">!</span><span class="d2">leg</span> |
 
 ## PoD Items
