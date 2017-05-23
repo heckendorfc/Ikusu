@@ -3,7 +3,6 @@
 //Inspired by Synial
 //
 //Contact on Discord: datawulf#9873
-//last update: 2017-05-22
 
 //Hide Gold Piles Smaller Than (<) X
 ItemDisplay[CLVL>80 GOLD<4000]:
@@ -32,6 +31,21 @@ ItemDisplay[mp3 CLVL<26]: %BLUE%!%WHITE%Mana
 ItemDisplay[mp1 CLVL>14]:
 ItemDisplay[mp2 CLVL>19]:
 ItemDisplay[mp3 CLVL>25]:
+
+//other Potions - hide all
+//Thaw
+ItemDisplay[wms]:
+//Antidote
+ItemDisplay[yps]:
+//Stamina
+ItemDisplay[vps]:
+//Choking, Exploding, Fulminating, Oil, Rancid, Strangling
+ItemDisplay[gpm]:
+ItemDisplay[opm]:
+ItemDisplay[opl]:
+ItemDisplay[ops]:
+ItemDisplay[gps]:
+ItemDisplay[gpl]:
 
 //Essences (Respec Token)
 ItemDisplay[tes]: %GOLD%Suffering %RED%[%GOLD%Anduriel%RED%]
@@ -68,21 +82,6 @@ ItemDisplay[ibk]: %GREEN%!%WHITE%ID Tome
 
 //Keys for Locked Chests
 ItemDisplay[key]: %GREEN%!%WHITE%key
-
-//other Potions - hide all
-//Thaw
-ItemDisplay[wms]:
-//Antidote
-ItemDisplay[yps]:
-//Stamina
-ItemDisplay[vps]:
-//Choking, Exploding, Fulminating, Oil, Rancid, Strangling, Stamina 
-ItemDisplay[gpm]:
-ItemDisplay[opm]:
-ItemDisplay[opl]:
-ItemDisplay[ops]:
-ItemDisplay[gps]:
-ItemDisplay[gpl]:
 
 //Hide MAGIC Quivers & Bolts above level 60
 ItemDisplay[aq2 MAG CLVL>60]:
