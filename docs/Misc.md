@@ -2,7 +2,7 @@
 
 All non-equippable items (including Wirt's Leg)
 
-## gold
+## Gold
 
 gold values that are displayed:
 
