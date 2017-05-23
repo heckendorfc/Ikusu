@@ -22,10 +22,17 @@ html, button, input, select, textarea { font-family: sans-serif; }
 /* d2 font */
 @font-face {
 font-family: "Avqest";
-src: url("/fonts/Avqest.ttf"); 
+src: url("/assets/fonts/Avqest.ttf"); 
 }
 
 d2 { font-family: "Avqest"; }
+
+@font-face {
+font-family: Avqest2;
+src: url(Avqest.ttf); 
+}
+
+d22 { font-family: Avqest; }
 
 /* Addresses margins handled incorrectly in IE6/7 */
 body { margin: 0; }
