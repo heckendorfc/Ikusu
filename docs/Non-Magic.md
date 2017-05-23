@@ -13,8 +13,8 @@ end
 ~~~
 {: .language-ruby}
 
-#TEST
+# TEST
 
 This is *red*{: style="color: red"}.
 
-\!{: style="color: green"}TP Scroll
+**!**{: style="color: green"}TP Scroll
