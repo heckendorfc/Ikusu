@@ -1,5 +1,6 @@
 # Gold
 Gold values that are displayed:
+
 | LVL | Value |
 | --- | --- |
 | LVL 1-40 | 100+ |
