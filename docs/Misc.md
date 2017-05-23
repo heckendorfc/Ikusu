@@ -64,17 +64,41 @@ Gold values that are displayed:
 | ![](icons/tometp.gif) | Tome of Town Portal | never | <span class="d2" style="color: green">!</span><span class="d2">TP Tome</span> |
 | ![](icons/tomeid.gif) | Tome of Identification | never | <span class="d2" style="color: green">!</span><span class="d2">ID Tome</span> |
 | ![](icons/key.gif) | Key | never | <span class="d2" style="color: green">!</span><span class="d2">Key</span> |
+| ![](icons/WirtsLeg.gif) | Wirt's Leg | never | <span class="d2" style="color: green">!</span><span class="d2">leg</span> |
 
 ## PoD Items
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
 | ![](icons/ooc.png) | Orb of Corruption | never | <span class="d2" style="color: purple">Orb of Corruption</span> |
-| ![](icons/t1.png) | ... Relic | never | <span class="d2" style="color: purple">Tier 1 Relic</span> |
+| ![]() | ... Relic | never | <span class="d2" style="color: purple">Tier 1 Relic</span> |
 | ![](icons/t2.png) | Dark Cavern Relic | never | <span class="d2" style="color: purple">Tier 2 Relic</span> |
 | ![](icons/t3.png) | Abondoned Precinct Relic | never | <span class="d2" style="color: purple">Tier 3 Relic</span> |
-| ![](icons/t4.png) | ... Relic | never | <span class="d2" style="color: purple">Tier 4 Relic</span> |
+| ![]() | ... Relic | never | <span class="d2" style="color: purple">Tier 4 Relic</span> |
 | ![]() | New Relic?! | never | <span class="d2" style="color: purple">Mysterious Tier Relic: Name</span> |
 | ![]() | New Item?! | never | <span class="d2" style="color: purple">Mysterious New Item: Name</span> |
 
-## Quests
+## Quest Items
+
+unchanged standard Display
+
+## Essences
+
+| Icon | Name | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| ![]() | Twisted Essence of Suffering | never | <span class="d2" style="color: gold">Suffering </span><span class="d2" style="color: red">[</span><span class="d2" style="color: gold">Anduriel</span><span class="d2" style="color: red">]</span> |
+| ![]() | Charged Essence of Hatred | never | <span class="d2" style="color: gold">Hatred </span><span class="d2" style="color: red">[</span><span class="d2" style="color: gold">Mephisto</span><span class="d2" style="color: red">]</span> |
+| ![](icons/essd.png) | Burning Essence of Terror | never | <span class="d2" style="color: gold">Terror </span><span class="d2" style="color: red">[</span><span class="d2" style="color: gold">Diablo</span><span class="d2" style="color: red">]</span> |
+| ![]() | Festering Essence of Destruction | never | <span class="d2" style="color: gold">Destruction </span><span class="d2" style="color: red">[</span><span class="d2" style="color: gold">Baal</span><span class="d2" style="color: red">]</span> |
+| ![]() | Token of Absolution | never | <span class="d2" style="color: gold">Token of Absolution </span> |
+
+## Uber Keys
+
+| Icon | Name | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| ![](icons/ukey.png) | Key of Terror | never | <span class="d2" style="color: red">Terror </span><span class="d2" style="color: gold">[</span><span class="d2" style="color: red">Countess</span><span class="d2" style="color: gold">]</span> |
+| ![](icons/ukey.png) | Key of Hate | never | <span class="d2" style="color: red">Hate </span><span class="d2" style="color: gold">[</span><span class="d2" style="color: red">Summoner</span><span class="d2" style="color: gold">]</span> |
+| ![](icons/ukey.png) | Key of Destruction | never | <span class="d2" style="color: red">Terror </span><span class="d2" style="color: gold">[</span><span class="d2" style="color: red">Nihlathak</span><span class="d2" style="color: gold">]</span> |
+| ![]() | Diablo's Horn | never | <span class="d2" style="color: red">Diablo's Horn</span> |
+| ![]() | Baal's Eye | never | <span class="d2" style="color: red">Baal's Eye</span> |
+| ![]() | Mephisto's Brain | never | <span class="d2" style="color: red">Mephisto's Brain</span> |

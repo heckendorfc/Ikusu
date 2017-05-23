@@ -45,12 +45,17 @@ ItemDisplay[ops]:
 ItemDisplay[gps]:
 ItemDisplay[gpl]:
 
-//Essences (Respec Token)
-ItemDisplay[tes]: %GOLD%Suffering %RED%[%GOLD%Anduriel%RED%]
-ItemDisplay[ceh]: %GOLD%Hatred %RED%[%GOLD%Mephisto%RED%]
-ItemDisplay[bet]: %GOLD%Terror %RED%[%GOLD%Diablo%RED%]
-ItemDisplay[fed]: %GOLD%Destruction %RED%[%GOLD%Baal%RED%]
-ItemDisplay[toa]: %GOLD%Token of Absolution
+//TPs / IDs  Scrolls & Tomes
+ItemDisplay[tsc]: %GREEN%!%WHITE%TP
+ItemDisplay[isc]: %GREEN%!%WHITE%ID
+ItemDisplay[tbk]: %GREEN%!%WHITE%TP Tome
+ItemDisplay[ibk]: %GREEN%!%WHITE%ID Tome
+
+//Keys for Locked Chests
+ItemDisplay[key]: %GREEN%!%WHITE%key
+
+//Wirt's Leg
+ItemDisplay[leg]: %GREEN%!%WHITE%Leg
 
 //PoD Items
 ItemDisplay[cx5]: %PURPLE%Orb of Corruption
@@ -61,8 +66,12 @@ ItemDisplay[ma3]: %PURPLE%Tier 3 Relic
 ItemDisplay[ma4]: %PURPLE%Tier 4 Relic
 ItemDisplay[maz]: %PURPLE%Mysterious Tier Relic: %NAME%
 
-//Wirt's Leg
-ItemDisplay[leg]: %GREEN%!%WHITE%Leg
+//Essences (Respec Token)
+ItemDisplay[tes]: %GOLD%Suffering %RED%[%GOLD%Anduriel%RED%]
+ItemDisplay[ceh]: %GOLD%Hatred %RED%[%GOLD%Mephisto%RED%]
+ItemDisplay[bet]: %GOLD%Terror %RED%[%GOLD%Diablo%RED%]
+ItemDisplay[fed]: %GOLD%Destruction %RED%[%GOLD%Baal%RED%]
+ItemDisplay[toa]: %GOLD%Token of Absolution
 
 //Uber Keys
 ItemDisplay[pk1]: %RED%Terror %GOLD%[%RED%Countess%GOLD%]
@@ -71,15 +80,6 @@ ItemDisplay[pk3]: %RED%Destruction %GOLD%[%RED%Nihlathak%GOLD%]
 ItemDisplay[dhn]: %RED%Diablo's Horn
 ItemDisplay[bey]: %RED%Baal's Eye
 ItemDisplay[mbr]: %RED%Mephisto's Brain
-
-//TPs / IDs  Scrolls & Tomes
-ItemDisplay[tsc]: %GREEN%!%WHITE%TP
-ItemDisplay[isc]: %GREEN%!%WHITE%ID
-ItemDisplay[tbk]: %GREEN%!%WHITE%TP Tome
-ItemDisplay[ibk]: %GREEN%!%WHITE%ID Tome
-
-//Keys for Locked Chests
-ItemDisplay[key]: %GREEN%!%WHITE%key
 
 //Hide MAGIC Quivers & Bolts above level 60
 ItemDisplay[aq2 MAG CLVL>60]:
