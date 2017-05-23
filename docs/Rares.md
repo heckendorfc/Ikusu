@@ -1,0 +1,5 @@
+# Armors
+
+# Weapons
+
+# Jewelery
