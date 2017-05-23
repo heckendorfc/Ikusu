@@ -98,7 +98,7 @@ unchanged standard Display
 | --- | --- | --- | --- |
 | ![](icons/ukey.png) | Key of Terror | never | <span class="d2red">Terror </span><span class="d2gold">[</span><span class="d2red">Countess</span><span class="d2gold">]</span> |
 | ![](icons/ukey.png) | Key of Hate | never | <span class="d2red">Hate </span><span class="d2gold">[</span><span class="d2red">Summoner</span><span class="d2gold">]</span> |
-| ![](icons/ukey.png) | Key of Destruction | never | <span class="d2red">Terror </span><span class="d2gold">[</span><span class="d2red">Nihlathak</span><span class="d2gold">]</span> |
+| ![](icons/ukey.png) | Key of Destruction | never | <span class="d2red">Destruction </span><span class="d2gold">[</span><span class="d2red">Nihlathak</span><span class="d2gold">]</span> |
 | ![]() | Diablo's Horn | never | <span class="d2red">Diablo's Horn</span> |
 | ![]() | Baal's Eye | never | <span class="d2red">Baal's Eye</span> |
 | ![]() | Mephisto's Brain | never | <span class="d2red">Mephisto's Brain</span> |
