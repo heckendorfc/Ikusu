@@ -18,28 +18,28 @@ Gold values that are displayed:
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
-| ![](icons/Rejuv.gif) | Rejuvenation Potion | 66+ | ToDo |
-| ![](icons/Fullrejuv.gif) | Full Rejuvenation Potion | never | ToDo |
+| ![](icons/Rejuv.gif) | Rejuvenation Potion | 66+ | **!**{: style="color: purple"}35% |
+| ![](icons/Fullrejuv.gif) | Full Rejuvenation Potion | never | **!**{: style="color: purple"}70% |
 
 ### Health
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
-| ![](icons/Minorhealing.gif) | Minor Healing Potion | 15+ | ToDo |
-| ![](icons/Lighthealing.gif) | Light Healing Potion | 18+ | ToDo |
-| ![](icons/Healing.gif) | Healing Potion | 24+ | ToDo |
-| ![](icons/Greaterhealing.gif) | Greater Healing Potion | 81+ | ToDo |
-| ![](icons/Superhealing.gif) | Super Healing Potion | never | ToDo |
+| ![](icons/Minorhealing.gif) | Minor Healing Potion | 15+ | **!**{: style="color: red"}Minor Heal |
+| ![](icons/Lighthealing.gif) | Light Healing Potion | 18+ | **!**{: style="color: red"}Light Heal |
+| ![](icons/Healing.gif) | Healing Potion | 24+ | **!**{: style="color: red"}Healing |
+| ![](icons/Greaterhealing.gif) | Greater Healing Potion | 81+ | **!**{: style="color: red"}H |
+| ![](icons/Superhealing.gif) | Super Healing Potion | never | **!**{: style="color: red"}H+ |
 
 ### Mana
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
-| ![](icons/Minormana.gif) | Minor Mana Potion | 15+ | ToDo |
-| ![](icons/Lightmana.gif) | Light Mana Potion | 20+ | ToDo |
-| ![](icons/Mana.gif) | Mana Potion | 26+ | ToDo |
-| ![](icons/Greatermana.gif) | Greater Mana Potion | 81+ | ToDo |
-| ![](icons/Supermana.gif) | Super Mana Potion | never | ToDo |
+| ![](icons/Minormana.gif) | Minor Mana Potion | 15+ | **!**{: style="color: blue"}Minor Mana |
+| ![](icons/Lightmana.gif) | Light Mana Potion | 20+ | **!**{: style="color: blue"}Light Mana |
+| ![](icons/Mana.gif) | Mana Potion | 26+ | **!**{: style="color: blue"}Mana |
+| ![](icons/Greatermana.gif) | Greater Mana Potion | 81+ | **!**{: style="color: blue"}M |
+| ![](icons/Supermana.gif) | Super Mana Potion | never | **!**{: style="color: blue"}M+ |
 
 ### Others
 
@@ -59,11 +59,11 @@ Gold values that are displayed:
 
 | Icon | Name | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
-| ![](icons/scrolltp.gif) | Town Portal Scroll | never | **!**{: style="color: green"}**TP** |
+| ![](icons/scrolltp.gif) | Town Portal Scroll | never | **!**{: style="color: green"}TP |
 | ![](icons/scrollid.gif) | Identification Scroll | never | **!**{: style="color: green"}ID |
 | ![](icons/tometp.gif) | Tome of Town Portal | never | **!**{: style="color: green"}TP Tome |
 | ![](icons/tomeid.gif) | Tome of Identification | never | **!**{: style="color: green"}ID Tome |
-| ![](icons/key.gif) | Key | never |!{: style="color: green"}Key |
+| ![](icons/key.gif) | Key | never | **!**{: style="color: green"}Key |
 
 ## PoD Items
 
