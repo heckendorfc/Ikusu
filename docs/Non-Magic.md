@@ -24,6 +24,6 @@ This is *red*{: style="color: red"}.
 **test text**{:.d22}
 
 
-**test text**{: style="font-family: Avqest"}
+**test text**{: style="font-family: avqestregular"}
 
-**test text**{: style="font-family: Avqest2"}
+**test text**{: style="font-family: avqestregular"}
