@@ -25,14 +25,14 @@ font-family: "Avqest";
 src: url("/assets/fonts/Avqest.ttf"); 
 }
 
-d2 { font-family: "Avqest"; }
+.d2 { font-family: "Avqest"; }
 
 @font-face {
 font-family: Avqest2;
 src: url(Avqest.ttf); 
 }
 
-d22 { font-family: Avqest; }
+.d22 { font-family: Avqest; }
 
 /* Addresses margins handled incorrectly in IE6/7 */
 body { margin: 0; }
