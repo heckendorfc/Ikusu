@@ -1,8 +1,10 @@
 # Gold
 Gold values that are displayed:
-* LVL 1-40: 100+
-* LVL 41-80: 2000+
-* LVL 81+: 4000+
+| LVL | Value |
+| --- | --- |
+| LVL 1-40 | 100+ |
+| LVL 41-80| 2000+|
+| LVL 81+ | 4000+ |
 
 # Potions
 ## Rejuvenation
