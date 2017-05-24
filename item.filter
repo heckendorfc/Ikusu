@@ -422,14 +422,13 @@ ItemDisplay[RARE jew !ID]: %YELLOW%%NAME% %YELLOW%¤
 //=Druid Pelts=
 ItemDisplay[CL1 RARE !ID ILVL>49]: %YELLOW%%NAME% ¤¤
 ItemDisplay[CL1 RARE !ID ILVL>39 CLVL<70]: %YELLOW%%NAME% ¤
-ItemDisplay[CL1 RARE !ID ILVL<40 CLVL<45]: %YELLOW%%NAME%
+ItemDisplay[CL1 RARE !ID CLVL<45]: %YELLOW%%NAME%
 ItemDisplay[CL1 RARE !ID]:
 
 //=Barb Helms=
-ItemDisplay[CL2 RARE !ID ILVL>89]: %YELLOW%%NAME% %RED%¤ 
-ItemDisplay[CL2 RARE !ID ILVL>59]: %YELLOW%%NAME% ¤¤
+ItemDisplay[CL2 RARE !ID ILVL>49]: %YELLOW%%NAME% ¤¤
 ItemDisplay[CL2 RARE !ID ILVL>39 CLVL<70]: %YELLOW%%NAME% ¤
-ItemDisplay[CL2 RARE !ID ILVL>19 CLVL<45]: %YELLOW%%NAME%
+ItemDisplay[CL2 RARE !ID CLVL<45]: %YELLOW%%NAME%
 ItemDisplay[CL2 RARE !ID]:
 
 //=Helms=
@@ -442,18 +441,18 @@ ItemDisplay[EQ2 RARE !ID CLVL>50]:
 
 //=Paladin Shields=
 ItemDisplay[CL3 RARE !ID ILVL>49]: %YELLOW%%NAME% ¤¤
-ItemDisplay[CL3 RARE !ID ILVL>29 CLVL<60]: %YELLOW%%NAME% ¤
-ItemDisplay[CL3 RARE !ID CLVL<40]: %YELLOW%%NAME%
+ItemDisplay[CL3 RARE !ID ILVL>39 CLVL<70]: %YELLOW%%NAME% ¤
+ItemDisplay[CL3 RARE !ID CLVL<45]: %YELLOW%%NAME%
 ItemDisplay[CL3 RARE !ID]:
 
 //=Necro Shields - Shrunken Heads=
 ItemDisplay[CL4 RARE !ID ILVL>49]: %YELLOW%%NAME% ¤¤
-ItemDisplay[CL4 RARE !ID ILVL>29 CLVL<60]: %YELLOW%%NAME% ¤
-ItemDisplay[CL4 RARE !ID CLVL<40]: %YELLOW%%NAME%
+ItemDisplay[CL4 RARE !ID ILVL>39 CLVL<70]: %YELLOW%%NAME% ¤
+ItemDisplay[CL4 RARE !ID CLVL<45]: %YELLOW%%NAME%
 ItemDisplay[CL4 RARE !ID]:
 
 //=Shields=
-ItemDisplay[EQ3 RARE !ID ILVL>49]: %YELLOW%%NAME% ¤
+ItemDisplay[EQ3 RARE !ID ILVL>64]: %YELLOW%%NAME% ¤
 ItemDisplay[EQ3 RARE !ID CLVL>50]:
 
 //=Gloves=
@@ -467,7 +466,7 @@ ItemDisplay[EQ5 RARE !ID CLVL>50]:
 //=Belts=
 ItemDisplay[EQ6 RARE !ID (ELT OR EXC)]: %NAME%
 ItemDisplay[hbl RARE !ID]: %NAME%
-ItemDisplay[EQ6 RARE !ID !hbl CLVL>30]:
+ItemDisplay[EQ6 RARE !ID CLVL>30]:
 
 //=Circlets=
 ItemDisplay[EQ7 RARE !ID ILVL>89]: %YELLOW%%NAME% %RED%¤ 
