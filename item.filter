@@ -258,7 +258,7 @@ ItemDisplay[UNI !ID 6lw]: %RED%¤ %GOLD%%NAME% %RED%¤
 //Reaper's Toll
 ItemDisplay[UNI !ID 7s8]: %RED%¤ %GOLD%%NAME% %RED%¤
 //ETH Reaper's Toll
-ItemDisplay[UNI ETH !ID 7s8]: %RED%¤ %GOLD%ETH %NAME% %RED%¤
+ItemDisplay[UNI ETH !ID 7s8]: %RED%¤¤ %GOLD%ETH %NAME% %RED%¤¤
 //Lacerator
 ItemDisplay[UNI !ID 7b8]: %RED%¤ %GOLD%%NAME% %RED%¤
 //Azurewrath
@@ -293,6 +293,7 @@ ItemDisplay[UNI !ID (cm1 OR cm2 OR cm3)]: %RED%¤ %GOLD%%NAME% %RED%¤
 //UNIQUE / SET Eth/Socket Catchall
 ItemDisplay[(UNI OR SET) ETH !ID]: ETH %NAME%
 ItemDisplay[(UNI OR SET) !ID]: %NAME%
+ItemDisplay[UNI ETH SOCK>0]: ETH %NAME% [%SOCKETS%]
 ItemDisplay[UNI ETH]: ETH %NAME%
 ItemDisplay[ (UNI OR SET) SOCK>0]: %NAME% [%SOCKETS%]
 ItemDisplay[(UNI OR SET)]: %NAME%
