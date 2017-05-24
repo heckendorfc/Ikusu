@@ -1,5 +1,5 @@
 # Non-Magic
-* useful base items for runewords will appear in darkgreen, somtimes with mentioning the usage (runeword)
+* useful base items for runewords will appear in darkgreen, sometimes with mentioning the usage (runeword)
 * colors (grey, white, yellow, red) indicate the tier of the base item - e.g.: red = (almost) perfect base for a runeword
 * this section needs to be and will be reworked
 
