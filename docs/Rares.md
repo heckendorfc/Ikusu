@@ -1,5 +1,5 @@
 # Rares
-Identified Rares will always be displayed!
+* Identified Rares will always be displayed!
 
 ## Jewelery
 
@@ -8,6 +8,7 @@ Identified Rares will always be displayed!
 | Amulet | always | never | <span class="d2" style="color: yellow">Amulet ¤</span>
 | Ring | always | never | <span class="d2" style="color: yellow">Ring ¤</span>
 | Jewel | always | never | <span class="d2" style="color: yellow">Jewel ¤</span>
+| Quiver | always | never | <span class="d2" style="color: yellow">Quiver</span>
 
 ## Armors
 ### Druid pelts
@@ -58,7 +59,7 @@ Identified Rares will always be displayed!
 
 ### Shields
 
-Shields might be always bad
+* Shields might be always bad
 
 | Description | Condition | Hide at | Displayed as |
 | --- | --- | --- | --- |
@@ -96,7 +97,7 @@ Shields might be always bad
 | Can't have Skill Bonus | ItemLVL < 20 | always |  -/- |
 
 ## Weapons
-Weapons need to be reworked
+* Weapons need to be reworked
 
 ### Assassin weapons
 

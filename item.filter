@@ -170,13 +170,6 @@ ItemDisplay[r31]: %RED%¤%TAN%[>%RED%%RUNENAME%%TAN%<]%RED%¤ %WHITE%(31)
 ItemDisplay[r32]: %RED%¤%TAN%[>%RED%%RUNENAME%%TAN%<]%RED%¤ %WHITE%(32)
 ItemDisplay[r33]: %TAN%[>%RED%%RUNENAME%%TAN%<] %WHITE%(33)
 
-//Hide MAGIC Quivers & Bolts above level 60
-ItemDisplay[aq2 MAG CLVL>60]:
-ItemDisplay[aq2 RARE]: %NAME%
-ItemDisplay[cq2 MAG CLVL>60]:
-ItemDisplay[cq2 RARE]: %NAME%
-
-
 //===Uniques / Sets===
 //Highlight the more useful / rare uniques / sets red
 
@@ -331,6 +324,10 @@ ItemDisplay[MAG cm1 ILVL<48 CLVL>80]:
 ItemDisplay[MAG cm2 ILVL<34]:
 ItemDisplay[MAG (cm1 OR cm2 OR cm3)]: %NAME%%WHITE% [L%ILVL%]
 
+//Hide MAGIC Quivers & Bolts above level 60
+ItemDisplay[aq2 MAG CLVL>60]:
+ItemDisplay[cq2 MAG CLVL>60]:
+
 //==Helm==
 ItemDisplay[CL1 MAG !ID CLVL>40]:
 ItemDisplay[CL2 MAG !ID CLVL>40]:
@@ -386,27 +383,27 @@ ItemDisplay[EQ7 MAG !ID]:
 
 //==Weapons==
 //Magic Vendor (Staff, WAND, Scepter)
-ItemDisplay[MAG WP11 !ID]: %BLUE%%NAME%
-ItemDisplay[MAG WP12 !ID]: %BLUE%%NAME%
-ItemDisplay[MAG WP13 !ID]: %BLUE%%NAME%
+ItemDisplay[MAG WP11 !ID]: %BLUE%Staff $
+ItemDisplay[MAG WP12 !ID]: %BLUE%Wand $
+ItemDisplay[MAG WP13 !ID]: %BLUE%Scepter $
 //Magic Maybe (Druid Pelt, Elite Assassin Claws, Sorceress Orbs
-ItemDisplay[MAG ELT CL5 !ID]: %BLUE%%NAME%
-ItemDisplay[MAG CL6 !ID]: %BLUE%%NAME%
+ItemDisplay[MAG CL5 !ID]: %BLUE%Claw $
+ItemDisplay[MAG CL6 !ID]: %BLUE%Sorc Orb $
 //Magic Amazon Weapons >ILVL55
-ItemDisplay[MAG CL7 !ID ILVL>55]:
+ItemDisplay[MAG CL7 !ID CLVL>55]:
 //
 //None of the Above
 //Weapons: Axe, Mace, Sword, Dagger, Throwing Weapon, Javelin, Spear, Polearm, Bow, Crossbow
-ItemDisplay[MAG WP1 !ID ILVL>25]:
-ItemDisplay[MAG WP2 !ID ILVL>25]:
-ItemDisplay[MAG WP3 !ID ILVL>25]:
-ItemDisplay[MAG WP4 !ID ILVL>25]:
-ItemDisplay[MAG WP5 !ID ILVL>25]:
-ItemDisplay[MAG WP6 !ID ILVL>25]:
-ItemDisplay[MAG WP7 !ID ILVL>25]:
-ItemDisplay[MAG WP8 !ID ILVL>25]:
-ItemDisplay[MAG WP9 !ID ILVL>25]:
-ItemDisplay[MAG WP10 !ID ILVL>25]:
+ItemDisplay[MAG WP1 !ID CLVL>25]:
+ItemDisplay[MAG WP2 !ID CLVL>25]:
+ItemDisplay[MAG WP3 !ID CLVL>25]:
+ItemDisplay[MAG WP4 !ID CLVL>25]:
+ItemDisplay[MAG WP5 !ID CLVL>25]:
+ItemDisplay[MAG WP6 !ID CLVL>25]:
+ItemDisplay[MAG WP7 !ID CLVL>25]:
+ItemDisplay[MAG WP8 !ID CLVL>25]:
+ItemDisplay[MAG WP9 !ID CLVL>25]:
+ItemDisplay[MAG WP10 !ID CLVL>25]:
 //
 
 ItemDisplay[MAG]:%NAME%
@@ -418,6 +415,10 @@ ItemDisplay[MAG]:%NAME%
 ItemDisplay[RARE amu !ID]: %YELLOW%%NAME% %YELLOW%¤
 ItemDisplay[RARE rin !ID]: %YELLOW%%NAME% %YELLOW%¤
 ItemDisplay[RARE jew !ID]: %YELLOW%%NAME% %YELLOW%¤
+
+//Quivers
+ItemDisplay[aq2 RARE]: %NAME%
+ItemDisplay[cq2 RARE]: %NAME%
 
 //=Druid Pelts=
 ItemDisplay[CL1 RARE !ID ILVL>49]: %YELLOW%%NAME% ¤¤
@@ -807,7 +808,6 @@ ItemDisplay[7cr !ETH NMAG SOCK=6]: %DGREEN%%NAME% %YELLOW%[%SOCKETS%]
 ItemDisplay[7wa !ETH NMAG SOCK=6]: %DGREEN%%NAME% %YELLOW%[%SOCKETS%]
 ItemDisplay[7gm !ETH NMAG SOCK=6]: %DGREEN%%NAME% %YELLOW%[%SOCKETS%]
 
-
 //Lawbringer
 ItemDisplay[7cr NMAG SOCK=3]: %DGREEN% %NAME% %YELLOW%[%SOCKETS%]
 ItemDisplay[72h ETH NMAG SOCK=3]: %DGREEN%ETH %NAME% %YELLOW%[%SOCKETS%]
@@ -822,12 +822,10 @@ ItemDisplay[7wd ETH NMAG SOCK=3]: %DGREEN%ETH %NAME% %RED%[%SOCKETS%]
 ItemDisplay[7wd ETH NMAG SOCK=0]: %DGREEN%ETH %NAME% %YELLOW%[%SOCKETS%]
 ItemDisplay[7wd NMAG SOCK=3]: %DGREEN%%NAME% %GRAY%[%SOCKETS%]
 
-
 //Oath
 ItemDisplay[7wa ETH NMAG SOCK=4]: %DGREEN%ETH %NAME% %YELLOW%[%SOCKETS%]
 ItemDisplay[7fb ETH NMAG SOCK=4]: %DGREEN%ETH %NAME% %YELLOW%[%SOCKETS%]
 ItemDisplay[7gd ETH NMAG SOCK=4]: %DGREEN%ETH %NAME% %YELLOW%[%SOCKETS%]
-
 
 //non-magic wANDs with 3 skills
 ItemDisplay[WP12 !wnd !ywn !9wn NMAG (SK95>0 AND SK85>0 AND SK74>1) !SOCK=1]: %DGREEN%%NAME% %RED%[%SOCKETS%]
