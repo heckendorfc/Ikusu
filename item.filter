@@ -480,19 +480,17 @@ ItemDisplay[RARE CL6 !ID]: %YELLOW%%NAME%
 //Amazon
 ItemDisplay[RARE CL7 !ID ETH]: ETH %NAME%
 ItemDisplay[RARE CL7 !ID]: %NAME%
-ItemDisplay[RARE WP7 !ID ETH]: ETH %NAME%
-//Merc Rares
-ItemDisplay[RARE WP3 ELT !ID]: %NAME%
-ItemDisplay[RARE WP7 ELT !ID]: %NAME%
-ItemDisplay[RARE WP8 ELT !ID]: %NAME%
-ItemDisplay[RARE WEAPON ELT !ID]: %NAME%
+ItemDisplay[RARE WP7 ELT !ID ETH ]: ETH %NAME%
+ItemDisplay[RARE WP7 EXC !ID ETH CLVL<75]: ETH %NAME%
+ItemDisplay[RARE WP7 NORM !ID ETH CLVL<40]: ETH %NAME%
 //Money (Staff, WAND, Scepter)
 ItemDisplay[RARE WP11 !ID]: %NAME%
 ItemDisplay[RARE WP12 !ID]: %NAME%
 ItemDisplay[RARE WP13 !ID]: %NAME%
 //other Weapons
+ItemDisplay[WEAPON RARE ELT !ID]: %NAME%
 ItemDisplay[WEAPON RARE EXC !ID CLVL<60]: %NAME%
-ItemDisplay[WEAPON RARE NorM !ID CLVL<30]: %NAME%
+ItemDisplay[WEAPON RARE NORM !ID CLVL<30]: %NAME%
 ItemDisplay[WEAPON RARE !ID]:
 //anything else
 ItemDisplay[RARE !ID]: %NAME%

@@ -96,21 +96,124 @@ Shields might be always bad
 | Can't have Skill Bonus | ItemLVL < 20 | always |  -/- |
 
 ## Weapons
+Weapons need to be reworked
+
 ### Assassin weapons
+
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any | always | never | <span class="d2" style="color: yellow">Name</span> |
+
 ### Sorceress weapons
+
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any | always | never | <span class="d2" style="color: yellow">Name</span> |
+
 ### Amazon weapons 
+
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any Ethereal | always | never | <span class="d2" style="color: yellow">ETH Name</span> |
+| Any | always | never | <span class="d2" style="color: yellow">Name</span> |
+
 ### Axes
+
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any Elite | always | never | <span class="d2" style="color: yellow">Name</span> |
+| Any Exceptional | always | 60+ | <span class="d2" style="color: yellow">Name</span> |
+| Any Normal | always | 30+ | <span class="d2" style="color: yellow">Name</span> |
+
 ### Maces
+
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any Elite | always | never | <span class="d2" style="color: yellow">Name</span> |
+| Any Exceptional | always | 60+ | <span class="d2" style="color: yellow">Name</span> |
+| Any Normal | always | 30+ | <span class="d2" style="color: yellow">Name</span> |
+
 ### Swords
+
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any Elite | always | never | <span class="d2" style="color: yellow">Name</span> |
+| Any Exceptional | always | 60+ | <span class="d2" style="color: yellow">Name</span> |
+| Any Normal | always | 30+ | <span class="d2" style="color: yellow">Name</span> |
+
 ### Daggers
+
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any Elite | always | never | <span class="d2" style="color: yellow">Name</span> |
+| Any Exceptional | always | 60+ | <span class="d2" style="color: yellow">Name</span> |
+| Any Normal | always | 30+ | <span class="d2" style="color: yellow">Name</span> |
+
 ### Throwing Weapons
+
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any Elite | always | never | <span class="d2" style="color: yellow">Name</span> |
+| Any Exceptional | always | 60+ | <span class="d2" style="color: yellow">Name</span> |
+| Any Normal | always | 30+ | <span class="d2" style="color: yellow">Name</span> |
+
 ### Javelins
+
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any Elite | always | never | <span class="d2" style="color: yellow">Name</span> |
+| Any Exceptional | always | 60+ | <span class="d2" style="color: yellow">Name</span> |
+| Any Normal | always | 30+ | <span class="d2" style="color: yellow">Name</span> |
+
 ### Spears
+
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any Ethereal Elite | always | never | <span class="d2" style="color: yellow">ETH Name</span> |
+| Any Elite | always | never | <span class="d2" style="color: yellow">Name</span> |
+| Any Ethereal Exceptional | always | 75+ | <span class="d2" style="color: yellow">ETH Name</span> |
+| Any Exceptional | always | 60+ | <span class="d2" style="color: yellow">Name</span> |
+| Any Ethereal Normal | always | 40+ | <span class="d2" style="color: yellow">Name</span> |
+| Any Normal | always | 30+ | <span class="d2" style="color: yellow">Name</span> |
+
 ### Polearms
+
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any Elite | always | never | <span class="d2" style="color: yellow">Name</span> |
+| Any Exceptional | always | 60+ | <span class="d2" style="color: yellow">Name</span> |
+| Any Normal | always | 30+ | <span class="d2" style="color: yellow">Name</span> |
+
 ### Bows
+
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any Elite | always | never | <span class="d2" style="color: yellow">Name</span> |
+| Any Exceptional | always | 60+ | <span class="d2" style="color: yellow">Name</span> |
+| Any Normal | always | 30+ | <span class="d2" style="color: yellow">Name</span> |
+
 ### Crossbows
+
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any Elite | always | never | <span class="d2" style="color: yellow">Name</span> |
+| Any Exceptional | always | 60+ | <span class="d2" style="color: yellow">Name</span> |
+| Any Normal | always | 30+ | <span class="d2" style="color: yellow">Name</span> |
+
 ### Staves
+
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any | always | never | <span class="d2" style="color: yellow">Name</span> |
+
 ### Wands
+
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any | always | never | <span class="d2" style="color: yellow">Name</span> |
+
 ### Scepters 
 
-
+| Description | Condition | Hide at | Displayed as |
+| --- | --- | --- | --- |
+| Any | always | never | <span class="d2" style="color: yellow">Name</span> |

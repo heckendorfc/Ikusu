@@ -1,6 +1,6 @@
 # Misc
 
-All non-equippable items (including Wirt's Leg)
+All other non-equippable items (including Wirt's Leg)
 
 ## Gold
 
