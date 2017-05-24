@@ -7,7 +7,7 @@ Some features might not be finished or might change.
 
 The documentation is also "work in progress".
 
-Feedback is welcome on Discord: datawulf#9873 or on [github](https://github.com/datawulf/Ikusu)
+Feedback is welcome on Discord: datawulf#9873 or on [github](https://github.com/datawulf/Ikusu/issues)
 
 ## Features
 * Hide useless items
