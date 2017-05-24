@@ -47,15 +47,74 @@
 
 ## Armors
 ### Druid pelts
+
+| Description | Condition | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| Any | always | 41+ | <span class="d2blue">Name</span> |
+
 ### Barbarian helmets
+
+| Description | Condition | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| Any | always | 41+ | <span class="d2blue">Name</span> |
+
 ### Helmets
+
+| Description | Condition | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| Any | always | 10+ | <span class="d2blue">Name</span> |
+
 ### Body Armor
+
+| Description | Condition | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| Any | always | 10+ | <span class="d2blue">Name</span> |
+
 ### Paladin shields
+
+| Description | Condition | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| Any | always | 41+ | <span class="d2blue">Name</span> |
+
 ### Necromancer shields
+
+| Description | Condition | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| Any | always | 41+ | <span class="d2blue">Name</span> |
+
 ### Shields
+
+| Description | Condition | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| Any | always | 10+ | <span class="d2blue">Name</span> |
+
 ### Gloves
+
+| Item | Description | Condition | Hide at LVL | Displayed as |
+| --- | --- | --- | --- | --- |
+| Heavy Gloves | Blood Craft | ItemLVL > 84 | never | <span class="d2" style="color: orange">{</span><span class="d2blue">Blood Gloves</span><span class="d2" style="color: orange">}</span> |
+| Sharkskin Gloves | Blood Craft | ItemLVL > 84 | never | <span class="d2" style="color: orange">{</span><span class="d2blue">Blood Gloves</span><span class="d2" style="color: orange">}</span> |
+| Vampirebone Gloves | Blood Craft | ItemLVL > 84 | never | <span class="d2" style="color: orange">{</span><span class="d2blue">Blood Gloves</span><span class="d2" style="color: orange">}</span> |
+| Chain Gloves | Hit Power Craft | ItemLVL > 84 | never | <span class="d2" style="color: orange">{</span><span class="d2blue">Hit Power Gloves</span><span class="d2" style="color: orange">}</span> |
+| Heavy Bracers | Hit Power Craft | ItemLVL > 84 | never | <span class="d2" style="color: orange">{</span><span class="d2blue">Hit Power Gloves</span><span class="d2" style="color: orange">}</span> |
+| Vampbracers | Hit Power Craft | ItemLVL > 84 | never | <span class="d2" style="color: orange">{</span><span class="d2blue">Hit Power Gloves</span><span class="d2" style="color: orange">}</span> |
+| Any other gloves | useless | always | 10+ | <span class="d2blue">Name</span> |
+
 ### Boots
+
+| Boots | Caster Craft | ItemLVL > 84 | never | <span class="d2" style="color: orange">{</span><span class="d2blue">Caster Boots</span><span class="d2" style="color: orange">}</span> |
+| Demonhide Boots | Caster Craft | ItemLVL > 84 | never | <span class="d2" style="color: orange">{</span><span class="d2blue">Caster Boots</span><span class="d2" style="color: orange">}</span> |
+| Wyrnhide Boots | Caster Craft | ItemLVL > 84 | never | <span class="d2" style="color: orange">{</span><span class="d2blue">Caster Boots</span><span class="d2" style="color: orange">}</span> |
+| Any other boots | useless | always | 10+ | <span class="d2blue">Name</span> |
+
 ### Belts
+
+| Mesh Belt | Blood Craft | ItemLVL > 84 | never | <span class="d2" style="color: orange">{</span><span class="d2blue">Blood Belt</span><span class="d2" style="color: orange">}</span> |
+| Mythril Coil | Blood Craft | ItemLVL > 84 | never | <span class="d2" style="color: orange">{</span><span class="d2blue">Blood Belt</span><span class="d2" style="color: orange">}</span> |
+| Sharkskin Belt | Caster Craft | ItemLVL > 84 | never | <span class="d2" style="color: orange">{</span><span class="d2blue">Caster Belt</span><span class="d2" style="color: orange">}</span> |
+| Vampirefang Belt | Caster Craft | ItemLVL > 84 | never | <span class="d2" style="color: orange">{</span><span class="d2blue">Caster Belt</span><span class="d2" style="color: orange">}</span> |
+| Any other Belt | useless | always | 10+ | <span class="d2blue">Name</span> |
+
 ### Circlets 
 
 | Description | Condition | Hide at LVL | Displayed as |
