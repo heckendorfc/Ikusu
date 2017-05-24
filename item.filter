@@ -420,10 +420,9 @@ ItemDisplay[RARE rin !ID]: %YELLOW%%NAME% %YELLOW%¤
 ItemDisplay[RARE jew !ID]: %YELLOW%%NAME% %YELLOW%¤
 
 //=Druid Pelts=
-ItemDisplay[CL1 RARE !ID ILVL>89]: %YELLOW%%NAME% %RED%¤ 
-ItemDisplay[CL1 RARE !ID ILVL>59]: %YELLOW%%NAME% ¤¤
+ItemDisplay[CL1 RARE !ID ILVL>49]: %YELLOW%%NAME% ¤¤
 ItemDisplay[CL1 RARE !ID ILVL>39 CLVL<70]: %YELLOW%%NAME% ¤
-ItemDisplay[CL1 RARE !ID ILVL>19 CLVL<45]: %YELLOW%%NAME%
+ItemDisplay[CL1 RARE !ID ILVL<40 CLVL<45]: %YELLOW%%NAME%
 ItemDisplay[CL1 RARE !ID]:
 
 //=Barb Helms=
