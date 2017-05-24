@@ -98,6 +98,31 @@ ItemDisplay[dhn]: %RED%Diablo's Horn
 ItemDisplay[bey]: %RED%Baal's Eye
 ItemDisplay[mbr]: %RED%Mephisto's Brain
 
+//GEMS
+//hide chipped, flawed, normal gems with LVL 25+
+//GEM=1. chipped, 2. flawed, 3.normal, 4. flawless, 5. perfect
+//GEMTYPE=1. Amethyst 2. Diamond 3. Emerald 4. Ruby 5. Sapphire 6. Topaz 7. Skull
+ItemDisplay[GEM=1 CLVL>25]:
+ItemDisplay[GEM=2 CLVL>25]:
+ItemDisplay[GEM=3 CLVL>25]:
+//Flawless (Tier4): (StANDard display with orange crafting indicator)
+ItemDisplay[GEM=4 GEMTYPE=1]: %PURPLE%f~%ORANGE%Amethyst
+ItemDisplay[GEM=4 GEMTYPE=2]: %WHITE%f~%ORANGE%Diamond
+ItemDisplay[GEM=4 GEMTYPE=3]: %GREEN%f~%ORANGE%Emerald
+ItemDisplay[GEM=4 GEMTYPE=4]: %RED%f~%ORANGE%Ruby
+ItemDisplay[GEM=4 GEMTYPE=5]: %BLUE%f~%ORANGE%Sapphire
+ItemDisplay[GEM=4 GEMTYPE=6]: %YELLOW%f~%ORANGE%Topaz
+ItemDisplay[GEM=4 GEMTYPE=7]: %GRAY%f~%ORANGE%Skull
+//PERFECT (Tier5): (Uppercase display with orange crafting AND tier indicator)
+ItemDisplay[GEM=5 GEMTYPE=1]: %PURPLE%P~%ORANGE%AMETHYST
+ItemDisplay[GEM=5 GEMTYPE=2]: %WHITE%P~%ORANGE%DIAMOND
+ItemDisplay[GEM=5 GEMTYPE=3]: %GREEN%P~%ORANGE%EMERALD
+ItemDisplay[GEM=5 GEMTYPE=4]: %RED%P~%ORANGE%RUBY
+ItemDisplay[GEM=5 GEMTYPE=5]: %BLUE%P~%ORANGE%SAPPHIRE
+ItemDisplay[GEM=5 GEMTYPE=6]: %YELLOW%P~%ORANGE%TOPAZ
+ItemDisplay[GEM=5 GEMTYPE=7]: %GRAY%P~%ORANGE%SKULL
+//
+
 //RUNES
 //not crafting relevant Runes will be grey with LVL 80+
 //crafting relevant Runes got tagged [Recipe_ArmorType]:
@@ -145,40 +170,12 @@ ItemDisplay[r31]: %RED%¤%TAN%[>%RED%%RUNENAME%%TAN%<]%RED%¤ %WHITE%(31)
 ItemDisplay[r32]: %RED%¤%TAN%[>%RED%%RUNENAME%%TAN%<]%RED%¤ %WHITE%(32)
 ItemDisplay[r33]: %TAN%[>%RED%%RUNENAME%%TAN%<] %WHITE%(33)
 
-//GEMS
-//hide chipped, flawed, normal gems with LVL 25+
-//GEM=1. chipped, 2. flawed, 3.normal, 4. flawless, 5. perfect
-//GEMTYPE=1. Amethyst 2. Diamond 3. Emerald 4. Ruby 5. Sapphire 6. Topaz 7. Skull
-ItemDisplay[GEM=1 CLVL>25]:
-ItemDisplay[GEM=2 CLVL>25]:
-ItemDisplay[GEM=3 CLVL>25]:
-//Flawless (Tier4): (StANDard display with orange crafting indicator)
-ItemDisplay[GEM=4 GEMTYPE=1]: %PURPLE%f~%ORANGE%Amethyst
-ItemDisplay[GEM=4 GEMTYPE=2]: %WHITE%f~%ORANGE%Diamond
-ItemDisplay[GEM=4 GEMTYPE=3]: %GREEN%f~%ORANGE%Emerald
-ItemDisplay[GEM=4 GEMTYPE=4]: %RED%f~%ORANGE%Ruby
-ItemDisplay[GEM=4 GEMTYPE=5]: %BLUE%f~%ORANGE%Sapphire
-ItemDisplay[GEM=4 GEMTYPE=6]: %YELLOW%f~%ORANGE%Topaz
-ItemDisplay[GEM=4 GEMTYPE=7]: %GRAY%f~%ORANGE%Skull
-//PERFECT (Tier5): (Uppercase display with orange crafting AND tier indicator)
-ItemDisplay[GEM=5 GEMTYPE=1]: %PURPLE%P~%ORANGE%AMETHYST
-ItemDisplay[GEM=5 GEMTYPE=2]: %WHITE%P~%ORANGE%DIAMOND
-ItemDisplay[GEM=5 GEMTYPE=3]: %GREEN%P~%ORANGE%EMERALD
-ItemDisplay[GEM=5 GEMTYPE=4]: %RED%P~%ORANGE%RUBY
-ItemDisplay[GEM=5 GEMTYPE=5]: %BLUE%P~%ORANGE%SAPPHIRE
-ItemDisplay[GEM=5 GEMTYPE=6]: %YELLOW%P~%ORANGE%TOPAZ
-ItemDisplay[GEM=5 GEMTYPE=7]: %GRAY%P~%ORANGE%SKULL
-//
-
 //Hide MAGIC Quivers & Bolts above level 60
 ItemDisplay[aq2 MAG CLVL>60]:
 ItemDisplay[aq2 RARE]: %NAME%
-ItemDisplay[aq2 UNI]: %NAME%
-ItemDisplay[aq2 SET]: %NAME%
 ItemDisplay[cq2 MAG CLVL>60]:
 ItemDisplay[cq2 RARE]: %NAME%
-ItemDisplay[cq2 UNI]: %NAME%
-ItemDisplay[cq2 SET]: %NAME%
+
 
 //===Uniques / Sets===
 //Highlight the more useful / rare uniques / sets red
@@ -223,9 +220,9 @@ ItemDisplay[SET !ID uar]: %RED%¤¤ %GREEN%%NAME% %RED%¤¤
 
 //==Gloves==
 //Dracul's Grasp
-ItemDisplay[UNI !ID uvg]: %RED%%NAME%
+ItemDisplay[UNI !ID uvg]: %RED%¤ %GOLD%%NAME% %RED%¤
 //Steelrend
-ItemDisplay[UNI !ID uhg]: %RED%%NAME%
+ItemDisplay[UNI !ID uhg]: %RED%¤ %GOLD%%NAME% %RED%¤
 
 //==Belts==
 //Arachnid Mesh
@@ -235,7 +232,7 @@ ItemDisplay[UNI !ID umc]: %RED%¤ %GOLD%%NAME% %RED%¤
 //String of Ears
 ItemDisplay[UNI !ID zlb]: %RED%¤ %GOLD%%NAME% %RED%¤
 //Razortail
-//ItemDisplay[UNI !ID zvb]: %RED%%NAME%
+ItemDisplay[UNI !ID zvb]: %RED%¤ %GOLD%%NAME% %RED%¤
 //Thundergod's Vigor
 ItemDisplay[UNI !ID zhb]: %RED%¤ %GOLD%%NAME% %RED%¤
 
