@@ -28,3 +28,13 @@ Lower Gems will only show up for low LVL Characters.
 | ![](icons/pskull.gif) | Perfect Skull | never | <span class="d2" style="color: grey">f~</span><span class="d2" style="color: orange">SKULL</span> |
 
 ## Runes
+
+| Icon | Name | Condition | Displayed as |
+| --- | --- | --- | --- |
+| ![](icons/el.png) | El Rune | LVL < 80 | <span class="d2" style="color: tan">[\></span><span class="d2">El</span><span class="d2" style="color: tan">\<]</span><span class="d2"> (1)</span> |
+| ![](icons/el.png) | El Rune | LVL 80+ | <span class="d2" style="color: tan">[\></span><span class="d2" style="color: grey">El</span><span class="d2" style="color: tan">\<]</span><span class="d2"> (1)</span> |
+| ![](icons/eld.png) | Eld Rune | LVL < 80 | <span class="d2" style="color: tan">[\></span><span class="d2">Eld</span><span class="d2" style="color: tan">\<]</span><span class="d2"> (1)</span> |
+| ![](icons/eld.png) | Eld Rune | LVL 80+ | <span class="d2" style="color: tan">[\></span><span class="d2" style="color: grey">Eld</span><span class="d2" style="color: tan">\<]</span><span class="d2"> (1)</span> |
+| ![](icons/tir.png) | Tir Rune | LVL < 80 | <span class="d2" style="color: tan">[\></span><span class="d2">Tir</span><span class="d2" style="color: tan">\<]</span><span class="d2"> (1)</span> |
+| ![](icons/tir.png) | Tir Rune | LVL 80+ | <span class="d2" style="color: tan">[\></span><span class="d2" style="color: grey">Tir</span><span class="d2" style="color: tan">\<]</span><span class="d2"> (1)</span> |
+| ![](icons/nef.png) | Nef Rune | always | <span class="d2" style="color: orange">[\></span><span class="d2">Nef</span><span class="d2" style="color: orange">\<]</span><span class="d2"> (1) <span class="d2" style="color: orange">~B_Gl</span></span> |
