@@ -3,9 +3,40 @@
 
 ## Jewelery
 ### Rings
+
+| Description | Condition | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| Any | always | never | <span class="d2blue">Ring </span><span class="d2"> [L*ILVL*]</span> |
+
 ### Amulets
+
+| Description | Condition | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| Craft @ LVL 96 | ItemLVL 85 | never | <span class="d2blue">Amulet </span><span class="d2" style="color: orange"> [CLVL 96+]</span> |
+| Craft @ LVL 94 | ItemLVL 86 - 87 | never | <span class="d2blue">Amulet </span><span class="d2" style="color: orange"> [CLVL 94+]</span> |
+| Craft @ LVL 92 | ItemLVL 88 - 89 | never | <span class="d2blue">Amulet </span><span class="d2" style="color: orange"> [CLVL 92+]</span> |
+| Craft @ LVL 90 | ItemLVL 90 - 91 | never | <span class="d2blue">Amulet </span><span class="d2" style="color: orange"> [CLVL 90+]</span> |
+| Craft @ LVL 88 | ItemLVL 92 - 93 | never | <span class="d2blue">Amulet </span><span class="d2" style="color: orange"> [CLVL 88+]</span> |
+| Craft @ LVL 86 | ItemLVL 94 - 95 | never | <span class="d2blue">Amulet </span><span class="d2" style="color: orange"> [CLVL 86+]</span> |
+| Craft @ LVL 84 | ItemLVL 96 - 97 | never | <span class="d2blue">Amulet </span><span class="d2" style="color: orange"> [CLVL 84+]</span> |
+| Craft @ LVL 82 | ItemLVL 98 - 99 | never | <span class="d2blue">Amulet </span><span class="d2" style="color: orange"> [CLVL 82+]</span> |
+| Others | ItemLVL < 85 | never | <span class="d2blue">Amulet </span><span class="d2"> [L*ILVL*]</span>
+
 ### Charms
+
+
+
+### Jewels
+
+| Description | Condition | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| Any | always | always | <span class="d2blue">Name</span> |
+
 ### Quivers
+
+| Description | Condition | Hide at LVL | Displayed as |
+| --- | --- | --- | --- |
+| Any | always | 60+ | <span class="d2blue">Name</span> |
 
 ## Armors
 ### Druid pelts
