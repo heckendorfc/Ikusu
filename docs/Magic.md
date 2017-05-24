@@ -6,7 +6,7 @@
 
 | Description | Condition | Hide at LVL | Displayed as |
 | --- | --- | --- | --- |
-| Any | always | never | <span class="d2blue">Ring </span><span class="d2"> [L*ILVL*]</span> |
+| Any | always | never | <span class="d2blue">Ring </span><span class="d2">[L*ILVL*]</span> |
 
 ### Amulets
 
@@ -20,7 +20,7 @@
 | Craft @ LVL 86 | ItemLVL 94 - 95 | never | <span class="d2blue">Amulet </span><span class="d2" style="color: orange"> [CLVL 86+]</span> |
 | Craft @ LVL 84 | ItemLVL 96 - 97 | never | <span class="d2blue">Amulet </span><span class="d2" style="color: orange"> [CLVL 84+]</span> |
 | Craft @ LVL 82 | ItemLVL 98 - 99 | never | <span class="d2blue">Amulet </span><span class="d2" style="color: orange"> [CLVL 82+]</span> |
-| Others | ItemLVL < 85 | never | <span class="d2blue">Amulet </span><span class="d2"> [L*ILVL*]</span>
+| Others | ItemLVL < 85 | never | <span class="d2blue">Amulet </span><span class="d2">[L*ILVL*]</span>
 
 ### Charms
 
@@ -28,7 +28,10 @@
 | --- | --- | --- | --- | --- |
 | Grand Charm | can be max life skiller | ItemLVL > 90 | never | <span class="d2blue">Name </span><span class="d2" style="color: orange">¤¤¤</span> |
 | Grand Charm | can be skiller | ItemLVL > 50 | never | <span class="d2blue">Name </span><span class="d2" style="color: orange">¤</span> |
-| Grand Charm | can't be skiller | ItemLVL < 51 | 80+ | <span class="d2blue">Name </span> |
+| Grand Charm | can't be skiller | ItemLVL < 51 | 80+ | <span class="d2blue">Name </span><span class="d2"> [L*ILVL*] |
+| Large Charm | any | always | never | <span class="d2blue">Name </span><span class="d2">[L*ILVL*]</span> |
+| Small Charm | can have max life | ItemLVL > 47 | never | <span class="d2blue">Name </span><span class="d2" style="color: orange">¤</span> |
+| Small Charm | any | ItemLVL < 48 | 80+ | <span class="d2blue">Name </span><span class="d2"> [L*ILVL*]</span> |
 
 ### Jewels
 

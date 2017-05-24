@@ -321,7 +321,6 @@ ItemDisplay[MAG cm3 ILVL>50]: %NAME% %ORANGE%¤
 ItemDisplay[MAG cm3 ILVL<51 CLVL>80]:
 ItemDisplay[MAG cm1 ILVL>47]: %NAME% %ORANGE%¤
 ItemDisplay[MAG cm1 ILVL<48 CLVL>80]:
-ItemDisplay[MAG cm2 ILVL<34]:
 ItemDisplay[MAG (cm1 OR cm2 OR cm3)]: %NAME%%WHITE% [L%ILVL%]
 
 //Hide MAGIC Quivers & Bolts above level 60
