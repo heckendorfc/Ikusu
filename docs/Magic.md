@@ -24,7 +24,11 @@
 
 ### Charms
 
-
+| Item | Description | Condition | Hide at LVL | Displayed as |
+| --- | --- | --- | --- | --- |
+| Grand Charm | can be max life skiller | ItemLVL > 90 | never | <span class="d2blue">Name </span><span class="d2" style="color: orange">¤¤¤</span> |
+| Grand Charm | can be skiller | ItemLVL > 50 | never | <span class="d2blue">Name </span><span class="d2" style="color: orange">¤</span> |
+| Grand Charm | can't be skiller | ItemLVL < 51 | 80+ | <span class="d2blue">Name </span> |
 
 ### Jewels
 
