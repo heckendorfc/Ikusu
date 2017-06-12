@@ -328,6 +328,13 @@ ItemDisplay[MAG (cm1 OR cm2 OR cm3)]: %NAME%%WHITE% [L%ILVL%]
 ItemDisplay[aq2 MAG CLVL>60]:
 ItemDisplay[cq2 MAG CLVL>60]:
 
+//==Circlets==
+ItemDisplay[EQ7 MAG !ID ILVL>89]: %BLUE%%NAME% %YELLOW%¤ 
+ItemDisplay[EQ7 MAG !ID ILVL>59]: %BLUE%%NAME% ¤¤
+ItemDisplay[EQ7 MAG !ID ILVL>39 CLVL<70]: %BLUE%%NAME% ¤
+ItemDisplay[EQ7 MAG !ID ILVL>19 CLVL<45]: %BLUE%%NAME%
+ItemDisplay[EQ7 MAG !ID]:
+
 //==Helm==
 ItemDisplay[CL1 MAG !ID CLVL>40]:
 ItemDisplay[CL2 MAG !ID CLVL>40]:
@@ -365,13 +372,6 @@ ItemDisplay[MAG umc ILVL>84]: %ORANGE%{%BLUE%Blood Belt%ORANGE%}
 ItemDisplay[MAG zmb ILVL>84]: %ORANGE%{%BLUE%Blood Belt%ORANGE%}
 //hide other
 ItemDisplay[EQ6 MAG !ID CLVL>9]:
-
-//==Circlets==
-ItemDisplay[EQ7 MAG !ID ILVL>89]: %BLUE%%NAME% %YELLOW%¤ 
-ItemDisplay[EQ7 MAG !ID ILVL>59]: %BLUE%%NAME% ¤¤
-ItemDisplay[EQ7 MAG !ID ILVL>39 CLVL<70]: %BLUE%%NAME% ¤
-ItemDisplay[EQ7 MAG !ID ILVL>19 CLVL<45]: %BLUE%%NAME%
-ItemDisplay[EQ7 MAG !ID]:
 
 //==Weapons==
 //Magic Vendor (Staff, WAND, Scepter)
@@ -424,6 +424,12 @@ ItemDisplay[CL2 RARE !ID ILVL>39 CLVL<70]: %YELLOW%%NAME% ¤
 ItemDisplay[CL2 RARE !ID CLVL<45]: %YELLOW%%NAME%
 ItemDisplay[CL2 RARE !ID]:
 
+//=Circlets=
+ItemDisplay[EQ7 RARE !ID ILVL>89]: %YELLOW%%NAME% %RED%¤ 
+ItemDisplay[EQ7 RARE !ID ILVL>39]: %YELLOW%%NAME% ¤
+ItemDisplay[EQ7 RARE !ID ILVL>19 CLVL<50]: %YELLOW%%NAME%
+ItemDisplay[EQ7 RARE !ID]:
+
 //=Helms=
 ItemDisplay[EQ1 RARE !ID ELT]: %NAME%
 ItemDisplay[EQ1 RARE !ID CLVL>50]:
@@ -460,12 +466,6 @@ ItemDisplay[EQ5 RARE !ID CLVL>50]:
 ItemDisplay[EQ6 RARE !ID (ELT OR EXC)]: %NAME%
 ItemDisplay[hbl RARE !ID]: %NAME%
 ItemDisplay[EQ6 RARE !ID CLVL>30]:
-
-//=Circlets=
-ItemDisplay[EQ7 RARE !ID ILVL>89]: %YELLOW%%NAME% %RED%¤ 
-ItemDisplay[EQ7 RARE !ID ILVL>39]: %YELLOW%%NAME% ¤
-ItemDisplay[EQ7 RARE !ID ILVL>19 CLVL<50]: %YELLOW%%NAME%
-ItemDisplay[EQ7 RARE !ID]:
 
 //Class Specific Rares (TODO)
 ItemDisplay[RARE CL5 !ID]: %YELLOW%%NAME%
