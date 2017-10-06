@@ -19,7 +19,7 @@ Feedback is welcome on Discord: datawulf#9873 or on [github](https://github.com/
 * and more
 
 ## Installation
-1. Put the URL: **http://zzyx.de/pod_filter** into the Path of Diablo Launcher and press "Download Filter".
+1. Put the URL: **https://zzyx.de/pod_filter** into the Path of Diablo Launcher and press "Download Filter".
 1. A Message will appear: "item.filter was overwrote by http://zzyx.de/pod_filter".
 1. Check the QoL Features Box in the Launcher.
 1. Launch the game
