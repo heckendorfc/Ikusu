@@ -44,7 +44,7 @@ ItemDisplay[opm]:
 ItemDisplay[opl]:
 ItemDisplay[ops]:
 ItemDisplay[gps]:
-ItemDisplay[gpl]:
+ItemDisplay[gpl CLVL>14]:
 
 //TPs / IDs  Scrolls & Tomes
 ItemDisplay[tsc]: %GREEN%!%WHITE%TP
